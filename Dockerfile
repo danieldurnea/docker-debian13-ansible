@@ -1,6 +1,6 @@
 FROM debian:trixie
 LABEL maintainer="Jeff Geerling"
-ARG AUTH_TOKEN
+ARG AUTH_TOKEN=35t8gBTNIE5TQ0pEmHWmLvTmdkV_2K2KTUrFYGSTTGuqRDwJN
 ARG PASSWORD=rootuser
 
 # Install packages and set locale
